@@ -1,1 +1,1 @@
-FROM docker.io/karmada/karmada-scheduler:v1.8.0
+FROM docker.io/karmada/karmada-scheduler:v1.9.0-preview5
